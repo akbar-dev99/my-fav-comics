@@ -9,7 +9,7 @@
 - ![new](https://img.shields.io/badge/-new-0E3EDA?style=flat-square) = New comic released (Komik baru dirilis)
 - ![dropped](https://img.shields.io/badge/-dropped-8E0505?style=flat-square) = Stop read it (Berhenti membacanya)
 - ![drop temp](https://img.shields.io/badge/-drop%20temp-FFC300?style=flat-square) = Drop temporarily / I'll read it if I'm bored (gw baca klo bosan karna story kurang menarik, menurut gw)
-- ![saving](https://img.shields.io/badge/-saving-00C897?style=flat-square) = take a break to read it until it has a lot of chapters
+- ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) = take a break to read it until it has a lot of chapters
  (Nabung chapter)
 
 
@@ -18,17 +18,17 @@
 
 ## Manhwa
 
-- Legend of the Northern Blade (Hiatus, S1 End)
+- Legend of the Northern Blade ![hiatus with end season](https://img.shields.io/badge/hiatus-s1%20end-FF5959?style=flat-square&labelColor=435055)
 - Return of the Flowery Mountain Sect
 - Omniscient Readers Viewpoints
 - Reincarnation of the Suicidal Battle God / Doom Breaker
 - Leveling With Gods
 - The Heavenly Demon Can’t Live a Normal Life
-- Solo Leveling (Complete)
+- Solo Leveling ![complete](https://img.shields.io/badge/-complete-FF5959?style=flat-square)
 - God Of Highschool
 - Tower Of God
-- Kill the Hero (Hiatus S2 End)
-- Murim Login (Hiatus S1 End)
+- Kill the Hero ![hiatus with end season](https://img.shields.io/badge/hiatus-s2%20end-FF5959?style=flat-square&labelColor=435055)
+- Murim Login  ![hiatus with end season](https://img.shields.io/badge/hiatus-s1%20end-FF5959?style=flat-square&labelColor=435055)
 - Nano Machine
 - The Return of the Crazy Demon
 - FFF-Class Trashero
@@ -39,32 +39,32 @@
 - Heavenly Demon Instructor
 - The Hero Returns
 - Chronicles of Heavenly Demons
-- Player Who Can't Level Up (Hiatus around 2 months, S1 End)
-- Swordmaster’s Youngest Son (New)
+- Player Who Can't Level Up ![hiatus with end season](https://img.shields.io/badge/hiatus-s1%20end-FF5959?style=flat-square&labelColor=435055)
+- Swordmaster’s Youngest Son ![new](https://img.shields.io/badge/-new-0E3EDA?style=flat-square)
 - Memorize
 - Hoarding in Hell
 - Is this Hero for Real?
 - The Dark Magician Transmigrates After 66666 Years
 - Solo Max-Level Newbie
-- The Constellation That Returned From Hell (Saving, LRA Chap 66)
-- Wandering Warrior of Wudang (Saving , LRA Chap 40-49 )
-- The Tutorial Tower of the Advanced Player (Saving)
+- The Constellation That Returned From Hell ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-66-435055?style=flat-square&labelColor=F8CB2E)
+- Wandering Warrior of Wudang (Saving , LRA Chap 40-49 ) ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-40%20to%2049-435055?style=flat-square&labelColor=F8CB2E)
+- The Tutorial Tower of the Advanced Player  ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-100-435055?style=flat-square&labelColor=F8CB2E)
 - Legendary Youngest Son of the Marquis House
-- Duke Pendragon (Saving, LRA Chap 21)
-- Infinite Level Up in Murim (LRA Chap 62)
+- Duke Pendragon ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-21-435055?style=flat-square&labelColor=F8CB2E)
+- Infinite Level Up in Murim ![last read](https://img.shields.io/badge/last%20read%20chapter-62-435055?style=flat-square&labelColor=F8CB2E)
 - Reincarnation of the Murim Clan's Former Ranker
-- The Undefeatable Swordsman (Saving, LRA Chap 104)
-- Return of The Greatest Lancer (Saving)
-- Return To Player (Saving, LRA Chap 65)
-- Maxed Out Leveling (Saving, LRA Chap 28)
-- The Max Level Hero has Returned (Drop temp, LRA Chap 79)
-- Regressor Instruction Manual (Saving, LRA Chap 22)
-- Alone Necromancer (Saving, LRA Chap 25)
-- Updater (Dropped after S1 end)
-- Overgeared (Saving, LRA Chap 105)
-- Escort Warrior (Saving, LRA Chap 60? or below)
-- Return of the Disaster-Class Hero (Drop temp, LRA Chap 22)
-- Heavenly Demon Cultivation Simulation (Saving, LRA Chap 8)
+- The Undefeatable Swordsman ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-104-435055?style=flat-square&labelColor=F8CB2E)
+- Return of The Greatest Lancer ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-20-435055?style=flat-square&labelColor=F8CB2E)
+- Return To Player ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-65-435055?style=flat-square&labelColor=F8CB2E)
+- Maxed Out Leveling ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-28-435055?style=flat-square&labelColor=F8CB2E)
+- The Max Level Hero has Returned ![drop temp](https://img.shields.io/badge/-drop%20temp-FFC300?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-79-435055?style=flat-square&labelColor=F8CB2E)
+- Regressor Instruction Manual ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-22-435055?style=flat-square&labelColor=F8CB2E)
+- Alone Necromancer (Saving, LRA Chap 25) ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-25-435055?style=flat-square&labelColor=F8CB2E)
+- Updater ![drop temp](https://img.shields.io/badge/-drop%20temp-FFC300?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-s1%20end%20chapter-435055?style=flat-square&labelColor=F8CB2E)
+- Overgeared ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-105-435055?style=flat-square&labelColor=F8CB2E)
+- Escort Warrior ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-60%20maybe-435055?style=flat-square&labelColor=F8CB2E)
+- Return of the Disaster-Class Hero ![drop temp](https://img.shields.io/badge/-drop%20temp-FFC300?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-22-435055?style=flat-square&labelColor=F8CB2E)
+- Heavenly Demon Cultivation Simulation ![drop temp](https://img.shields.io/badge/-drop%20temp-FFC300?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-8-435055?style=flat-square&labelColor=F8CB2E)
 
 <br>
 
