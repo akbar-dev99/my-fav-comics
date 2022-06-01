@@ -3,13 +3,13 @@
 
 
 ### Description (Keterangan)
-- LRA = last read around (the last chapter i've read)
-- chap = chapter / episode
+- LRA = last read around (the last chapter i've read) / (Chapter terakhir yang gw baca)
+- chap = Chapter / episode
 - Complete = End (Tamat)
 - Hiatus = Break (Istirahat)
 - New = New comic released (Komik baru dirilis)
 - Drop = Stop read it
-- Drop temporarily = I'll read it if I'm bored (Saya akan membacanya jika bosan)
+- Drop temporarily = I'll read it if I'm bored (gw baca klo bosan karna story kurang menarik, menurut gw)
 - Saving = stop reading and wait until the comic already has a lot of chapters (Nabung)
 
 <br>
