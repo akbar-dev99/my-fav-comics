@@ -72,7 +72,7 @@
 - Apotheosis
 - My Path to Killing God in Otherworld
 - Hero? I Quit A Long Time Ago (Drop temp, LRA chap 15)
-- Against the Gods (Saving?) (arc against phoenix Empire?)
+- Against the Gods (Saving?) (arc war with phoenix Empire?)
 - God of Martial Arts (Dropped)
 - Strongest Anti M.E.T.A (Dropped , LRA chap 100)
 - Cultivator Against Hero Society (Saving, LRA chap 135)
