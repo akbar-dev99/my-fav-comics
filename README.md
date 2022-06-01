@@ -1,4 +1,4 @@
-# List of Webcomics I've read (Daftar webcomic yang pernah saya baca)
+# List of Webcomics I've read (Daftar webcomic yang pernah gw baca)
 
 
 
