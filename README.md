@@ -8,8 +8,8 @@
 - Complete = End (Tamat)
 - Hiatus = Break (Istirahat)
 - New = New comic released (Komik baru dirilis)
-- Drop = Stop read it
-- Drop temporarily = I'll read it if I'm bored (gw baca klo bosan karna story kurang menarik, menurut gw)
+- Dropped = Stop read it
+- Drop temp = Drop temporarily / I'll read it if I'm bored (gw baca klo bosan karna story kurang menarik, menurut gw)
 - Saving = stop reading and wait until the comic already has a lot of chapters (Nabung)
 
 <br>
@@ -52,11 +52,27 @@
 - Return of The Greatest Lancer (Saving)
 - Return To Player (Saving, LRA chap 65)
 - Maxed Out Leveling (Saving, LRA)
-- The Max Level Hero has Returned (Drop temporarily, LRA chap 90 )
+- The Max Level Hero has Returned (Drop temp, LRA chap 90 )
 - Regressor Instruction Manual (Saving, LRA chap 22)
 - Alone Necromancer (Saving, LRA chap 25)
 - Updater (Dropped after S1 end)
 - Overgeared (Saving, LRA chap 105)
 - Escort Warrior (Saving, LRA chap 60? or below)
-- Return of the Disaster-Class Hero (Drop temporarily, LRA chap 22)
+- Return of the Disaster-Class Hero (Drop temp, LRA chap 22)
 - Heavenly Demon Cultivation Simulation (Saving, LRA chap 8)
+
+
+
+## Manhua
+
+- Magic Emperor
+- I'm an Evil God (Saving, LRA chap 252)
+- Martial Peak (Saving , LRA chap 2280)
+- Tales of Demons and Gods
+- Apotheosis
+- My Path to Killing God in Otherworld
+- Hero? I Quit A Long Time Ago (Drop temp, LRA chap 15)
+- Against the Gods (Saving?) (arc against phoenix Empire?)
+- God of Martial Arts (Dropped)
+- Strongest Anti M.E.T.A (Dropped , LRA chap 100)
+- Cultivator Against Hero Society (Saving, LRA chap 135)
