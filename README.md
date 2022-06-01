@@ -89,5 +89,5 @@
 - Tensei Shitara Slime Datta Ken (That Time I Got Reincarnated as a Slime)
 - One Punch Man
 - Jujutsu Kaisen
-- Mushoku Tensei: Isekai Ittara Honki Dasu (Mushoku Tensei)
+- Mushoku Tensei: Isekai Ittara Honki Dasu (Mushoku Tensei) ![last read](https://img.shields.io/badge/last%20read%20chapter-79-435055?style=flat-square&labelColor=F8CB2E)
 - Tsuki ga Michibiku Isekai Douchuu (why i read this?)
