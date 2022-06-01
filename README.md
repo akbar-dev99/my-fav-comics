@@ -8,8 +8,7 @@
 - ![hiatus](https://img.shields.io/badge/-hiatus-435055?style=flat-square) = Break update (Istirahat)
 - ![hiatus with end season](https://img.shields.io/badge/hiatus-s1%20end-EC255A?style=flat-square&labelColor=435055) = Take a break after the end of a season (Istirahat seletah update season)
 - ![dropped](https://img.shields.io/badge/-dropped-8E0505?style=flat-square) = Stop read it (Berhenti membacanya)
-- ![drop temp](https://img.shields.io/badge/-drop%20temp-FFC300?style=flat-square) = Drop temporarily / I'll read it if I'm bored (gw baca klo bosan karna story kurang menarik, menurut gw)
-
+- ![drop temp](https://img.shields.io/badge/-drop%20temp-FF5B00?style=flat-square) = Drop temporarily / I'll read it if I'm bored (gw baca klo bosan karna story kurang menarik, menurut gw)
 - ![last read](https://img.shields.io/badge/last%20read%20chapter-90-435055?style=flat-square&labelColor=F8CB2E) = the last chapter i've read (Chapter terakhir yang dibaca)
 
 
@@ -57,14 +56,14 @@
 - Return of The Greatest Lancer ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-20-435055?style=flat-square&labelColor=F8CB2E)
 - Return To Player ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-65-435055?style=flat-square&labelColor=F8CB2E)
 - Maxed Out Leveling ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-28-435055?style=flat-square&labelColor=F8CB2E)
-- The Max Level Hero has Returned ![drop temp](https://img.shields.io/badge/-drop%20temp-FFC300?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-79-435055?style=flat-square&labelColor=F8CB2E)
+- The Max Level Hero has Returned ![drop temp](https://img.shields.io/badge/-drop%20temp-FF5B00?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-79-435055?style=flat-square&labelColor=F8CB2E)
 - Regressor Instruction Manual ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-22-435055?style=flat-square&labelColor=F8CB2E)
 - Alone Necromancer (Saving, LRA Chap 25) ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-25-435055?style=flat-square&labelColor=F8CB2E)
-- Updater ![drop temp](https://img.shields.io/badge/-drop%20temp-FFC300?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-s1%20end%20chapter-435055?style=flat-square&labelColor=F8CB2E)
+- Updater ![drop temp](https://img.shields.io/badge/-drop%20temp-FF5B00?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-s1%20end%20chapter-435055?style=flat-square&labelColor=F8CB2E)
 - Overgeared ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-105-435055?style=flat-square&labelColor=F8CB2E)
 - Escort Warrior ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-60%20maybe-435055?style=flat-square&labelColor=F8CB2E)
-- Return of the Disaster-Class Hero ![drop temp](https://img.shields.io/badge/-drop%20temp-FFC300?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-22-435055?style=flat-square&labelColor=F8CB2E)
-- Heavenly Demon Cultivation Simulation ![drop temp](https://img.shields.io/badge/-drop%20temp-FFC300?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-8-435055?style=flat-square&labelColor=F8CB2E)
+- Return of the Disaster-Class Hero ![drop temp](https://img.shields.io/badge/-drop%20temp-FF5B00?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-22-435055?style=flat-square&labelColor=F8CB2E)
+- Heavenly Demon Cultivation Simulation ![drop temp](https://img.shields.io/badge/-drop%20temp-FF5B00?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-8-435055?style=flat-square&labelColor=F8CB2E)
 
 <br>
 
@@ -77,7 +76,7 @@
 - Apotheosis
 - My Path to Killing God in Otherworld
 - Hero? I Quit A Long Time Ago ![last read](https://img.shields.io/badge/last%20read%20chapter-15-435055?style=flat-square&labelColor=F8CB2E)
-- Against the Gods ![drop temp](https://img.shields.io/badge/-drop%20temp-FFC300?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-arc%20war%20with%20Phoenix%20Empire-435055?style=flat-square&labelColor=F8CB2E)
+- Against the Gods ![drop temp](https://img.shields.io/badge/-drop%20temp-FF5B00?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-arc%20war%20with%20Phoenix%20Empire-435055?style=flat-square&labelColor=F8CB2E)
 - God of Martial Arts ![dropped](https://img.shields.io/badge/-dropped-8E0505?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-forgot%20it-435055?style=flat-square&labelColor=F8CB2E)
 - Strongest Anti M.E.T.A ![dropped](https://img.shields.io/badge/-dropped-8E0505?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-100-435055?style=flat-square&labelColor=F8CB2E)
 - Cultivator Against Hero Society ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-135-435055?style=flat-square&labelColor=F8CB2E)
