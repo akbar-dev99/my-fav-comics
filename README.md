@@ -2,16 +2,15 @@
 
 
 ### Description (Keterangan)
-- ![last read](https://img.shields.io/badge/last%20read%20chapter-90-435055?style=flat-square&labelColor=F8CB2E) = the last chapter i've read (Chapter terakhir yang dibaca)
+- ![new](https://img.shields.io/badge/-new-0E3EDA?style=flat-square) = New comic released (Komik baru dirilis)
+- ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) = take a break to read it until it has a lot of chapters (Nabung chapter)
+- ![complete](https://img.shields.io/badge/-complete-F90716?style=flat-square) = End (Tamat)
 - ![hiatus](https://img.shields.io/badge/-hiatus-435055?style=flat-square) = Break update (Istirahat)
 - ![hiatus with end season](https://img.shields.io/badge/hiatus-s1%20end-EC255A?style=flat-square&labelColor=435055) = Take a break after the end of a season (Istirahat seletah update season)
-- ![complete](https://img.shields.io/badge/-complete-F90716?style=flat-square) = End (Tamat)
-- ![new](https://img.shields.io/badge/-new-0E3EDA?style=flat-square) = New comic released (Komik baru dirilis)
 - ![dropped](https://img.shields.io/badge/-dropped-8E0505?style=flat-square) = Stop read it (Berhenti membacanya)
 - ![drop temp](https://img.shields.io/badge/-drop%20temp-FFC300?style=flat-square) = Drop temporarily / I'll read it if I'm bored (gw baca klo bosan karna story kurang menarik, menurut gw)
-- ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) = take a break to read it until it has a lot of chapters
- (Nabung chapter)
 
+- ![last read](https://img.shields.io/badge/last%20read%20chapter-90-435055?style=flat-square&labelColor=F8CB2E) = the last chapter i've read (Chapter terakhir yang dibaca)
 
 
 <br>
