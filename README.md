@@ -1,16 +1,15 @@
-# List of Webcomics I've read (Daftar webcomic yang pernah gw baca) By Baaev Legieuvn
+# List of Webcomics I've read (Daftar webcomic yang pernah saya baca) By Baaev Legieuvn
 
 
 
 ### Description (Keterangan)
-- LRA = last read around (the last chapter i've read) / (Chapter terakhir yang gw baca)
-- Chap = Chapter / episode
-- Complete = End (Tamat)
-- Hiatus = Break (Istirahat)
-- New = New comic released (Komik baru dirilis)
-- Dropped = Stop read it
-- Drop temp = Drop temporarily / I'll read it if I'm bored (gw baca klo bosan karna story kurang menarik, menurut gw)
-- ![saving badge](https://img.shields.io/badge/-saving-0AA1DD?style=flat-square) = take a break to read it until it has a lot of chapters
+- ![last read](https://img.shields.io/badge/last%20read%20chapter-90-435055?style=flat-square&labelColor=F8CB2E) = the last chapter i've read (Chapter terakhir yang dibaca)
+- ![hiatus](https://img.shields.io/badge/-hiatus-435055?style=flat-square) = Break update (Istirahat)
+- ![complete](https://img.shields.io/badge/-complete-FF5959?style=flat-square) = End (Tamat)
+- ![new](https://img.shields.io/badge/-new-2FA4FF?style=flat-square) = New comic released (Komik baru dirilis)
+- ![dropped](https://img.shields.io/badge/-dropped-8E0505?style=flat-square) = Stop read it (Berhenti membacanya)
+- ![drop temp](https://img.shields.io/badge/-drop%20temp-FBD46D?style=flat-square) = Drop temporarily / I'll read it if I'm bored (gw baca klo bosan karna story kurang menarik, menurut gw)
+- ![saving](https://img.shields.io/badge/-saving-8BDB81?style=flat-square) = take a break to read it until it has a lot of chapters
  (Nabung chapter)
 
 
