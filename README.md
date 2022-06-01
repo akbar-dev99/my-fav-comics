@@ -71,16 +71,16 @@
 ## Manhua
 
 - Magic Emperor
-- I'm an Evil God (Saving, LRA Chap 252)
-- Martial Peak (Saving , LRA Chap 2280)
+- I'm an Evil God ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-252-435055?style=flat-square&labelColor=F8CB2E)
+- Martial Peak ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-2280-435055?style=flat-square&labelColor=F8CB2E)
 - Tales of Demons and Gods
 - Apotheosis
 - My Path to Killing God in Otherworld
-- Hero? I Quit A Long Time Ago (Drop temp, LRA Chap 15)
-- Against the Gods (Saving?) (arc war with phoenix Empire?)
-- God of Martial Arts (Dropped)
-- Strongest Anti M.E.T.A (Dropped , LRA Chap 100)
-- Cultivator Against Hero Society (Saving, LRA Chap 135)
+- Hero? I Quit A Long Time Ago ![last read](https://img.shields.io/badge/last%20read%20chapter-15-435055?style=flat-square&labelColor=F8CB2E)
+- Against the Gods ![drop temp](https://img.shields.io/badge/-drop%20temp-FFC300?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-arc%20war%20with%20Phoenix%20Empire-435055?style=flat-square&labelColor=F8CB2E)
+- God of Martial Arts ![dropped](https://img.shields.io/badge/-dropped-8E0505?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-forgot%20it-435055?style=flat-square&labelColor=F8CB2E)
+- Strongest Anti M.E.T.A ![dropped](https://img.shields.io/badge/-dropped-8E0505?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-100-435055?style=flat-square&labelColor=F8CB2E)
+- Cultivator Against Hero Society ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-135-435055?style=flat-square&labelColor=F8CB2E)
 
 <br>
 
