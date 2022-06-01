@@ -51,7 +51,7 @@
 - The Undefeatable Swordsman (Saving, LRA chap 104)
 - Return of The Greatest Lancer (Saving)
 - Return To Player (Saving, LRA chap 65)
-- Maxed Out Leveling (Saving, LRA)
+- Maxed Out Leveling (Saving, LRA chap 28)
 - The Max Level Hero has Returned (Drop temp, LRA chap 90 )
 - Regressor Instruction Manual (Saving, LRA chap 22)
 - Alone Necromancer (Saving, LRA chap 25)
@@ -61,7 +61,7 @@
 - Return of the Disaster-Class Hero (Drop temp, LRA chap 22)
 - Heavenly Demon Cultivation Simulation (Saving, LRA chap 8)
 
-
+<br>
 
 ## Manhua
 
@@ -76,3 +76,13 @@
 - God of Martial Arts (Dropped)
 - Strongest Anti M.E.T.A (Dropped , LRA chap 100)
 - Cultivator Against Hero Society (Saving, LRA chap 135)
+
+<br>
+
+## Manga
+
+- Tensei Shitara Slime Datta Ken (That Time I Got Reincarnated as a Slime)
+- One Punch Man
+- Jujutsu Kaisen
+- Mushoku Tensei: Isekai Ittara Honki Dasu (Mushoku Tensei)
+- Tsuki ga Michibiku Isekai Douchuu (why i read this?)
