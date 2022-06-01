@@ -8,7 +8,7 @@
 - ![hiatus](https://img.shields.io/badge/-hiatus-435055?style=flat-square) = Break update (Istirahat)
 - ![hiatus with end season](https://img.shields.io/badge/hiatus-s1%20end-EC255A?style=flat-square&labelColor=435055) = Take a break after the end of a season (Istirahat seletah update season)
 - ![dropped](https://img.shields.io/badge/-dropped-8E0505?style=flat-square) = Stop read it (Berhenti membacanya)
-- ![drop temp](https://img.shields.io/badge/-drop%20temp-FF5B00?style=flat-square) = Drop temporarily / I'll read it if I'm bored (gw baca klo bosan karna story kurang menarik, menurut gw)
+- ![drop temp](https://img.shields.io/badge/-drop%20temp-FF5B00?style=flat-square) = Drop temporarily / I'll read it if I'm bored (nanti saya baca lagi kalau bosan karna story kurang menarik, menurut saya ya!)
 - ![last read](https://img.shields.io/badge/last%20read%20chapter-90-435055?style=flat-square&labelColor=F8CB2E) = the last chapter i've read (Chapter terakhir yang dibaca)
 
 
@@ -89,4 +89,4 @@
 - One Punch Man
 - Jujutsu Kaisen
 - Mushoku Tensei: Isekai Ittara Honki Dasu (Mushoku Tensei) ![last read](https://img.shields.io/badge/last%20read%20chapter-79-435055?style=flat-square&labelColor=F8CB2E)
-- Tsuki ga Michibiku Isekai Douchuu (why i read this?)
+- Tsuki ga Michibiku Isekai Douchuu (i dunno why i read this?)
