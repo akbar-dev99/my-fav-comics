@@ -10,8 +10,8 @@
 - New = New comic released (Komik baru dirilis)
 - Dropped = Stop read it
 - Drop temp = Drop temporarily / I'll read it if I'm bored (gw baca klo bosan karna story kurang menarik, menurut gw)
-- Saving = Stop reading and wait until the comic already has a lot of chapters (Nabung)
-- ![saving badge](https://img.shields.io/badge/-saving-0AA1DD?style=flat-square) = Stop reading and wait until the comic already has a lot of chapters (Nabung)
+- ![saving badge](https://img.shields.io/badge/-saving-0AA1DD?style=flat-square) = take a break to read it until it has a lot of chapters
+ (Nabung chapter)
 
 
 <br>
