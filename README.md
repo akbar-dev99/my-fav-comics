@@ -53,6 +53,7 @@
 - Infinite Level Up in Murim ![last read](https://img.shields.io/badge/last%20read%20chapter-62-435055?style=flat-square&labelColor=F8CB2E)
 - Reincarnation of the Murim Clan's Former Ranker
 - The Undefeatable Swordsman ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-104-435055?style=flat-square&labelColor=F8CB2E)
+- Heavenly Martial God ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-49-435055?style=flat-square&labelColor=F8CB2E)
 - Return of The Greatest Lancer ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-20-435055?style=flat-square&labelColor=F8CB2E)
 - Return To Player ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-65-435055?style=flat-square&labelColor=F8CB2E)
 - Maxed Out Leveling ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-28-435055?style=flat-square&labelColor=F8CB2E)
