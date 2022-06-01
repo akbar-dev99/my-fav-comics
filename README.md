@@ -89,4 +89,5 @@
 - One Punch Man
 - Jujutsu Kaisen
 - Mushoku Tensei: Isekai Ittara Honki Dasu (Mushoku Tensei) ![last read](https://img.shields.io/badge/last%20read%20chapter-79-435055?style=flat-square&labelColor=F8CB2E)
+- Zense Wa Kentei Konjou Kuzu Ouji (In Previous Life I was a Sword Emperor But now A Trash Prince)
 - Tsuki ga Michibiku Isekai Douchuu (i dunno why i read this?)
