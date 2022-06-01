@@ -4,8 +4,8 @@
 ### Description (Keterangan)
 - ![last read](https://img.shields.io/badge/last%20read%20chapter-90-435055?style=flat-square&labelColor=F8CB2E) = the last chapter i've read (Chapter terakhir yang dibaca)
 - ![hiatus](https://img.shields.io/badge/-hiatus-435055?style=flat-square) = Break update (Istirahat)
-- ![hiatus with end season](https://img.shields.io/badge/hiatus-s1%20end-FF5959?style=flat-square&labelColor=435055) = Take a break after the end of a season (Istirahat seletah update season)
-- ![complete](https://img.shields.io/badge/-complete-FF5959?style=flat-square) = End (Tamat)
+- ![hiatus with end season](https://img.shields.io/badge/hiatus-s1%20end-EC255A?style=flat-square&labelColor=435055) = Take a break after the end of a season (Istirahat seletah update season)
+- ![complete](https://img.shields.io/badge/-complete-F90716?style=flat-square) = End (Tamat)
 - ![new](https://img.shields.io/badge/-new-0E3EDA?style=flat-square) = New comic released (Komik baru dirilis)
 - ![dropped](https://img.shields.io/badge/-dropped-8E0505?style=flat-square) = Stop read it (Berhenti membacanya)
 - ![drop temp](https://img.shields.io/badge/-drop%20temp-FFC300?style=flat-square) = Drop temporarily / I'll read it if I'm bored (gw baca klo bosan karna story kurang menarik, menurut gw)
@@ -18,17 +18,17 @@
 
 ## Manhwa
 
-- Legend of the Northern Blade ![hiatus with end season](https://img.shields.io/badge/hiatus-s1%20end-FF5959?style=flat-square&labelColor=435055)
+- Legend of the Northern Blade ![hiatus with end season](https://img.shields.io/badge/hiatus-s1%20end-EC255A?style=flat-square&labelColor=435055)
 - Return of the Flowery Mountain Sect
 - Omniscient Readers Viewpoints
 - Reincarnation of the Suicidal Battle God / Doom Breaker
 - Leveling With Gods
 - The Heavenly Demon Can’t Live a Normal Life
-- Solo Leveling ![complete](https://img.shields.io/badge/-complete-FF5959?style=flat-square)
+- Solo Leveling ![complete](https://img.shields.io/badge/-complete-F90716?style=flat-square)
 - God Of Highschool
 - Tower Of God
-- Kill the Hero ![hiatus with end season](https://img.shields.io/badge/hiatus-s2%20end-FF5959?style=flat-square&labelColor=435055)
-- Murim Login  ![hiatus with end season](https://img.shields.io/badge/hiatus-s1%20end-FF5959?style=flat-square&labelColor=435055)
+- Kill the Hero ![hiatus with end season](https://img.shields.io/badge/hiatus-s2%20end-EC255A?style=flat-square&labelColor=435055)
+- Murim Login  ![hiatus with end season](https://img.shields.io/badge/hiatus-s1%20end-EC255A?style=flat-square&labelColor=435055)
 - Nano Machine
 - The Return of the Crazy Demon
 - FFF-Class Trashero
@@ -39,7 +39,7 @@
 - Heavenly Demon Instructor
 - The Hero Returns
 - Chronicles of Heavenly Demons
-- Player Who Can't Level Up ![hiatus with end season](https://img.shields.io/badge/hiatus-s1%20end-FF5959?style=flat-square&labelColor=435055)
+- Player Who Can't Level Up ![hiatus with end season](https://img.shields.io/badge/hiatus-s1%20end-EC255A?style=flat-square&labelColor=435055)
 - Swordmaster’s Youngest Son ![new](https://img.shields.io/badge/-new-0E3EDA?style=flat-square)
 - Memorize
 - Hoarding in Hell
