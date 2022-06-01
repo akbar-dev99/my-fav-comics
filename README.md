@@ -1,7 +1,7 @@
 # List of Webcomics I've read (Daftar webcomic yang pernah saya baca) By Baaev Legieuvn
 
 
-### Description (Keterangan)
+## Description (Keterangan)
 - ![new](https://img.shields.io/badge/-new-0E3EDA?style=flat-square) = New comic released (Komik baru dirilis)
 - ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) = take a break to read it until it has a lot of chapters (Nabung chapter)
 - ![complete](https://img.shields.io/badge/-complete-F90716?style=flat-square) = End (Tamat)
