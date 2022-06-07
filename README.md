@@ -34,6 +34,7 @@
 - The World After The End
 - The Great Mage Returns After 4000 Years
 - Return Of The Shattered Constellation
+- The Story of a Low-Rank Soldier Becoming A Monarch
 - Heavenly Demon Instructor
 - The Hero Returns
 - Chronicles of Heavenly Demons
