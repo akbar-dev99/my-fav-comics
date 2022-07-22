@@ -50,7 +50,7 @@
 - The Tutorial Tower of the Advanced Player  ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-100-435055?style=flat-square&labelColor=F8CB2E)
 - Legendary Youngest Son of the Marquis House
 - Duke Pendragon ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-21-435055?style=flat-square&labelColor=F8CB2E)
-- Infinite Level Up in Murim ![last read](https://img.shields.io/badge/last%20read%20chapter-62-435055?style=flat-square&labelColor=F8CB2E)
+- Infinite Level Up in Murim
 - Reincarnation of the Murim Clan's Former Ranker
 - The Undefeatable Swordsman ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-104-435055?style=flat-square&labelColor=F8CB2E)
 - Heavenly Martial God ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-49-435055?style=flat-square&labelColor=F8CB2E)
