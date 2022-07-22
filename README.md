@@ -36,10 +36,12 @@
 - Return Of The Shattered Constellation
 - The Story of a Low-Rank Soldier Becoming A Monarch
 - Chronicles of Heavenly Demons
+- Damn Reincarnation
+- Heavenly Sword's Grand Saga
 - Heavenly Demon Instructor
 - The Hero Returns
 - Player Who Can't Level Up
-- Swordmaster’s Youngest Son ![new](https://img.shields.io/badge/-new-0E3EDA?style=flat-square)
+- Swordmaster’s Youngest Son
 - Memorize
 - Hoarding in Hell
 - Is this Hero for Real?
