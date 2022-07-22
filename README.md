@@ -17,7 +17,7 @@
 ## Manhwa
 
 - Legend of the Northern Blade ![hiatus with end season](https://img.shields.io/badge/hiatus-s1%20end-EC255A?style=flat-square&labelColor=435055)
-- Return of the Flowery Mountain Sect
+- Return of the Flowery Mountain Sect ![hiatus with end season](https://img.shields.io/badge/hiatus-s2%20end-EC255A?style=flat-square&labelColor=435055)
 - Omniscient Readers Viewpoints
 - Reincarnation of the Suicidal Battle God / Doom Breaker
 - Leveling With Gods
