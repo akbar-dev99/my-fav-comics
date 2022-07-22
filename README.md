@@ -28,16 +28,16 @@
 - Kill the Hero ![hiatus with end season](https://img.shields.io/badge/hiatus-s2%20end-EC255A?style=flat-square&labelColor=435055)
 - Murim Login  ![hiatus with end season](https://img.shields.io/badge/hiatus-s1%20end-EC255A?style=flat-square&labelColor=435055)
 - Nano Machine
-- The Return of the Crazy Demon
+- The Return of the Crazy Demon ![hiatus](https://img.shields.io/badge/-hiatus-435055?style=flat-square)
 - FFF-Class Trashero
 - Talent-Swallowing Magician
 - The World After The End
 - The Great Mage Returns After 4000 Years
 - Return Of The Shattered Constellation
 - The Story of a Low-Rank Soldier Becoming A Monarch
+- Chronicles of Heavenly Demons
 - Heavenly Demon Instructor
 - The Hero Returns
-- Chronicles of Heavenly Demons
 - Player Who Can't Level Up
 - Swordmaster’s Youngest Son ![new](https://img.shields.io/badge/-new-0E3EDA?style=flat-square)
 - Memorize
