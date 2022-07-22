@@ -17,7 +17,7 @@
 ## Manhwa
 
 - Legend of the Northern Blade ![hiatus with end season](https://img.shields.io/badge/hiatus-s1%20end-EC255A?style=flat-square&labelColor=435055)
-- Return of the Flowery Mountain Sect
+- Return of the Flowery Mountain Sect ![hiatus with end season](https://img.shields.io/badge/hiatus-s2%20end-EC255A?style=flat-square&labelColor=435055)
 - Omniscient Readers Viewpoints
 - Reincarnation of the Suicidal Battle God / Doom Breaker
 - Leveling With Gods
@@ -28,18 +28,20 @@
 - Kill the Hero ![hiatus with end season](https://img.shields.io/badge/hiatus-s2%20end-EC255A?style=flat-square&labelColor=435055)
 - Murim Login  ![hiatus with end season](https://img.shields.io/badge/hiatus-s1%20end-EC255A?style=flat-square&labelColor=435055)
 - Nano Machine
-- The Return of the Crazy Demon
+- The Return of the Crazy Demon ![hiatus](https://img.shields.io/badge/-hiatus-435055?style=flat-square)
 - FFF-Class Trashero
 - Talent-Swallowing Magician
 - The World After The End
 - The Great Mage Returns After 4000 Years
 - Return Of The Shattered Constellation
 - The Story of a Low-Rank Soldier Becoming A Monarch
+- Chronicles of Heavenly Demons
+- Damn Reincarnation
+- Heavenly Sword's Grand Saga
 - Heavenly Demon Instructor
 - The Hero Returns
-- Chronicles of Heavenly Demons
-- Player Who Can't Level Up ![hiatus with end season](https://img.shields.io/badge/hiatus-s1%20end-EC255A?style=flat-square&labelColor=435055)
-- Swordmaster’s Youngest Son ![new](https://img.shields.io/badge/-new-0E3EDA?style=flat-square)
+- Player Who Can't Level Up
+- Swordmaster’s Youngest Son
 - Memorize
 - Hoarding in Hell
 - Is this Hero for Real?
@@ -50,7 +52,7 @@
 - The Tutorial Tower of the Advanced Player  ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-100-435055?style=flat-square&labelColor=F8CB2E)
 - Legendary Youngest Son of the Marquis House
 - Duke Pendragon ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-21-435055?style=flat-square&labelColor=F8CB2E)
-- Infinite Level Up in Murim ![last read](https://img.shields.io/badge/last%20read%20chapter-62-435055?style=flat-square&labelColor=F8CB2E)
+- Infinite Level Up in Murim
 - Reincarnation of the Murim Clan's Former Ranker
 - The Undefeatable Swordsman ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-104-435055?style=flat-square&labelColor=F8CB2E)
 - Heavenly Martial God ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-49-435055?style=flat-square&labelColor=F8CB2E)
@@ -59,7 +61,7 @@
 - Maxed Out Leveling ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-28-435055?style=flat-square&labelColor=F8CB2E)
 - The Max Level Hero has Returned ![drop temp](https://img.shields.io/badge/-drop%20temp-FF5B00?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-79-435055?style=flat-square&labelColor=F8CB2E)
 - Regressor Instruction Manual ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-22-435055?style=flat-square&labelColor=F8CB2E)
-- Alone Necromancer (Saving, LRA Chap 25) ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-25-435055?style=flat-square&labelColor=F8CB2E)
+- Alone Necromancer
 - Updater ![drop temp](https://img.shields.io/badge/-drop%20temp-FF5B00?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-s1%20end%20chapter-435055?style=flat-square&labelColor=F8CB2E)
 - Overgeared ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-105-435055?style=flat-square&labelColor=F8CB2E)
 - Escort Warrior ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-60%20maybe-435055?style=flat-square&labelColor=F8CB2E)
