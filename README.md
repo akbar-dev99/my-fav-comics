@@ -59,7 +59,7 @@
 - Maxed Out Leveling ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-28-435055?style=flat-square&labelColor=F8CB2E)
 - The Max Level Hero has Returned ![drop temp](https://img.shields.io/badge/-drop%20temp-FF5B00?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-79-435055?style=flat-square&labelColor=F8CB2E)
 - Regressor Instruction Manual ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-22-435055?style=flat-square&labelColor=F8CB2E)
-- Alone Necromancer (Saving, LRA Chap 25) ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-25-435055?style=flat-square&labelColor=F8CB2E)
+- Alone Necromancer
 - Updater ![drop temp](https://img.shields.io/badge/-drop%20temp-FF5B00?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-s1%20end%20chapter-435055?style=flat-square&labelColor=F8CB2E)
 - Overgeared ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-105-435055?style=flat-square&labelColor=F8CB2E)
 - Escort Warrior ![saving](https://img.shields.io/badge/-saving-019267?style=flat-square) ![last read](https://img.shields.io/badge/last%20read%20chapter-60%20maybe-435055?style=flat-square&labelColor=F8CB2E)
