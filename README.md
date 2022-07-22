@@ -36,6 +36,8 @@
 - Return Of The Shattered Constellation
 - The Story of a Low-Rank Soldier Becoming A Monarch
 - Chronicles of Heavenly Demons
+- Damn Reincarnation
+- Heavenly Sword's Grand Saga
 - Heavenly Demon Instructor
 - The Hero Returns
 - Player Who Can't Level Up
