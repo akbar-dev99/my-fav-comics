@@ -38,7 +38,7 @@
 - Heavenly Demon Instructor
 - The Hero Returns
 - Chronicles of Heavenly Demons
-- Player Who Can't Level Up ![hiatus with end season](https://img.shields.io/badge/hiatus-s1%20end-EC255A?style=flat-square&labelColor=435055)
+- Player Who Can't Level Up
 - Swordmaster’s Youngest Son ![new](https://img.shields.io/badge/-new-0E3EDA?style=flat-square)
 - Memorize
 - Hoarding in Hell
